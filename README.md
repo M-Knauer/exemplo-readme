@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Analysis and systems development<br>💻Working with Java, Spring Boot, MySQL, PostgreSQL, SQL Server<br>🎮 Passion for video games
+👩🏻‍💻I am a backend developer<br>🕵🏻‍♀️I am a student of Analysis and systems development<br>💻Working with Java, Spring Boot, MySQL, PostgreSQL, SQL Server<br>🎮 Passion for video games!
 
 
 ## 🌐 Socials:
